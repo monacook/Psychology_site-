@@ -328,8 +328,8 @@ you can use the generic selector below, but it's slower:
 .icon-anchor:before {
 	content: "\e060";
 }
-.icon-shield:before {
-	content: "\e061";
+/*.icon-shield:before {
+	content: "\e061";*/
 }
 .icon-lightning:before {
 	content: "\e062";
